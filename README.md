@@ -5,5 +5,6 @@
 ## 1/4 B2->B1
 ## 1/7 B1->S5
 ## 1/12 S5->S4
+## 1/18 S4->S3
 
 ## [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=monahn)](https://solved.ac/monahn)
